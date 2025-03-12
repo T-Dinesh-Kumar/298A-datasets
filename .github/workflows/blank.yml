@@ -1,7 +1,7 @@
 name: Delete Non-Folder Files
 
 on:
-  workflow_dispatch  # Allows manual trigger
+  workflow_dispatch  # Allows you to manually trigger this workflow
 
 jobs:
   clean_repo:
